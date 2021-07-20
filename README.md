@@ -8,6 +8,9 @@ Check out the [visual demonstration](https://youtu.be/c4vytzoGAkM) of our [websi
 
 2020 - Bioengineering Design Competition
 
+Teammates: Rayyana Kambris, Yoko Ru, Xinyu Zhang
+
+
 This booking services system allows public transportation riders to book distanced seats and decrease the public wait-time, both indoors and outdoors, as part of a COVID-19 recovery.
 
 Tools used for the website: HTML, CSS, JavaScript
